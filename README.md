@@ -27,7 +27,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 git clone https://github.com/lzzy12/python-aria-mirror-bot mirror-bot/
 cd mirror-bot
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/gogeta0sama/python-aria-mirror-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gogeta0sama/python-aria-mirror-bot/tree/master)
 
 
 
